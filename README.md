@@ -1,4 +1,4 @@
-# cardiovascular-disease-prediction
+# cardiovascular-disease-predictior
 
 An streamlit app which can predict the cardio vascular disease of patient using MRI images and demographical data.
 ## Tech Stack
@@ -13,7 +13,7 @@ An streamlit app which can predict the cardio vascular disease of patient using 
 
 
 
-  - [Cardio vascular disease predictir](https://be28-61-14-206-67.in.ngrok.io/)
+  - [Cardio vascular disease predictor](https://be28-61-14-206-67.in.ngrok.io/)
 
 
 ## Installation
