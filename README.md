@@ -9,6 +9,15 @@ An streamlit app which can predict the cardio vascular disease of patient using 
 
 **Back end:** Python
 
+## Features
+
+- Trained deep learning model for feature extraction from MRI images from over almost 3 thousand images and got accuracy of 97%
+
+- Used demographical data and applied data preprocessing and classifier algorithm for 70 thousand people
+
+-Combined classifier and deep learning model for precise disease prediction  
+
+
 ## Live link of project hosted globally using ngrok
 
 
