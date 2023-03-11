@@ -13,9 +13,8 @@ An streamlit app which can predict the cardio vascular disease of patient using 
 
 
 
-```bash
   - [Cardio vascular disease predictir](https://be28-61-14-206-67.in.ngrok.io/)
-```
+
 
 ## Installation
 Setup environment for streamlit
