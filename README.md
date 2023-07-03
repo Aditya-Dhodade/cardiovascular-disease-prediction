@@ -38,6 +38,12 @@ Clone the github repoand run
 ```
  The streamlit app will run on your localhost 
  
+ ## Screenshots
+![cardio1](https://github.com/Aditya-Dhodade/cardiovascular-disease-prediction/assets/97781791/062f215a-4d3f-4829-b9d1-19ded3830875)
+![cardio2](https://github.com/Aditya-Dhodade/cardiovascular-disease-prediction/assets/97781791/83302c00-a68a-4b67-92ff-42123e8eb4f8)
+![cardio3](https://github.com/Aditya-Dhodade/cardiovascular-disease-prediction/assets/97781791/c11f2548-fb2c-4ddb-be69-986e4551b4dc)
+
+ 
  ## Dataset used 
 
  - [Biological dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
